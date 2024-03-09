@@ -4,7 +4,7 @@ This is a Streamlit App that run analysis and investing/trading strategy on stoc
 
 ## Demo
 
-[![Watch the video]](./screenshots/invsto_submission-2024-03-09_12.32.31.mp4)
+Check Demo Video of the App: [Watch the video](./screenshots/invsto_submission-2024-03-09_12.32.31.mp4)
 
 ## Features
 
